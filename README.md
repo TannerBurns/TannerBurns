@@ -1,5 +1,4 @@
-![follower_badge](https://img.shields.io/github/followers/tannerburns?style=plastic) 
-
+<img src="http://www.hackthebox.eu/badge/image/106371" alt="Hack The Box"> <img align="right" src="https://img.shields.io/github/followers/tannerburns?style=plastic&logo=github" alt="GithubFollowers">
 # About Me :speech_balloon:
 
   I enjoy creating simple solutions to hard problems.
