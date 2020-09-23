@@ -8,7 +8,6 @@
 # Favorite Coding Languages :boom:
   - Python
   - Go
-  - C++
 
 <br>
   
