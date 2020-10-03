@@ -19,7 +19,3 @@
   - An Analysis of Security Competitions for A Beginner’s Guide; CISSE 2017: Cyber Security Education for the 21st Century; published Apr 28, 2017
 
 
-<a href="https://dev.to/tannerburns">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tanner Burns's DEV Profile" height="30" width="30">
-</a>
-
